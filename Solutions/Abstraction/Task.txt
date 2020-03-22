@@ -1,4 +1,3 @@
-package domashno14_zadacha1;
 
 public class Task 
 {
