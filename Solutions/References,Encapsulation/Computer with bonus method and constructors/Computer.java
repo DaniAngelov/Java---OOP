@@ -1,3 +1,5 @@
+// github.com/DaniAngelov
+
 public class Computer 
 {
 	private int year;
