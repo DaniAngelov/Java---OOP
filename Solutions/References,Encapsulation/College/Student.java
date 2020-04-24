@@ -1,4 +1,4 @@
-package domashno14_zadacha3;
+// github.com/DaniAngelov
 
 public class Student
 {
