@@ -1,4 +1,4 @@
-package domashno16;
+// github.com/DaniAngelov
 
 import java.util.Scanner;
 
