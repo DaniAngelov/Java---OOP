@@ -1,3 +1,5 @@
+// github.com/DaniAngelov
+
 package WarGame;
 
 import java.util.ArrayList;
