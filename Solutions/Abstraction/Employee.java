@@ -1,3 +1,5 @@
+// github.com/DaniAngelov
+
 package domashno14_zadacha1;
 
 import sun.tools.tree.ThisExpression;
