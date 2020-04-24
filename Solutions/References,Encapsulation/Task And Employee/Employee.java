@@ -1,3 +1,5 @@
+// github.com/DaniAngelov
+
 public class Employee 
 {
 	private String name;
