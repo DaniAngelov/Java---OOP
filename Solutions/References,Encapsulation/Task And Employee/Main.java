@@ -1,3 +1,5 @@
+// github.com/DaniAngelov
+
 public class Main {
 
 	public static void main(String[] args) 
