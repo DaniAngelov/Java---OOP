@@ -1,7 +1,7 @@
 
-#  Week 1 
+##  Week 1 
 
-## Primitive types, If-else statement
+### Primitive types, If-else statement
 
 Category| Challenge| Points   | Solution
 -------- | -------- | -------- | -------- 
