@@ -11,7 +11,7 @@ public class Task1
 		//int n = sc.nextInt();
 		
 		
-		for(int i = 120; i <= 999;i++)
+		for(int i = 100; i <= 999;i++)
 		{
 			int lastdigit = i % 10;
 			int firstdigit = i / 100;
