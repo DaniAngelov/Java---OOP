@@ -53,7 +53,7 @@ Loops | [Task 21](https://github.com/DaniAngelov/Java_Programming/blob/master/We
 Loops | [Task 22](https://github.com/DaniAngelov/Java_Programming/blob/master/Week%201/Homeworks/Lesson%203/Lesson%203%20Homework%20-%20Loops.pdf)| - |[Solution](https://github.com/DaniAngelov/Java_Programming/blob/master/Week%201/Homeworks/Lesson%203/Task22.java)
 Loops | [Task 23](https://github.com/DaniAngelov/Java_Programming/blob/master/Week%201/Homeworks/Lesson%203/Lesson%203%20Homework%20-%20Loops.pdf)| - |[Solution](https://github.com/DaniAngelov/Java_Programming/blob/master/Week%201/Homeworks/Lesson%203/Task23.java)
 Loops | [Task 24](https://github.com/DaniAngelov/Java_Programming/blob/master/Week%201/Homeworks/Lesson%203/Lesson%203%20Homework%20-%20Loops.pdf)| - |[Solution](https://github.com/DaniAngelov/Java_Programming/blob/master/Week%201/Homeworks/Lesson%203/Task24.java)
-Loops | [Task 2](https://github.com/DaniAngelov/Java_Programming/blob/master/Week%201/Homeworks/Lesson%203/Lesson%203%20Homework%20-%20Loops.pdf)| - |[Solution](https://github.com/DaniAngelov/Java_Programming/blob/master/Week%201/Homeworks/Lesson%203/Task25.java)
+Loops | [Task 25](https://github.com/DaniAngelov/Java_Programming/blob/master/Week%201/Homeworks/Lesson%203/Lesson%203%20Homework%20-%20Loops.pdf)| - |[Solution](https://github.com/DaniAngelov/Java_Programming/blob/master/Week%201/Homeworks/Lesson%203/Task25.java)
 
 
 
