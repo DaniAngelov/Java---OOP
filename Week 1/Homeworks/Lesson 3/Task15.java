@@ -11,10 +11,12 @@ public class Task1
 		int n = sc.nextInt();
 		int sum =0;
 		
-		for(int i = 1;i <= n;i++)
+		int i = 1;
+		do
 		{
 			sum+=i;
-		}
+			i++;
+		}while(i <= n);
 		System.out.println(sum);
 	}
 	
