@@ -29,6 +29,7 @@ Category| Challenge| Points   | Solution
 -------- | -------- | -------- | -------- 
 
 Loops | [Task 1](https://github.com/DaniAngelov/Java_Programming/blob/master/Week%201/Homeworks/Lesson%203/Lesson%203%20Homework%20-%20Loops.pdf)| - |[Solution](https://github.com/DaniAngelov/Java_Programming/blob/master/Week%201/Homeworks/Lesson%203/Task1.java)
+
 Loops | [Task 2](https://github.com/DaniAngelov/Java_Programming/blob/master/Week%201/Homeworks/Lesson%203/Lesson%203%20Homework%20-%20Loops.pdf)| - |[Solution](https://github.com/DaniAngelov/Java_Programming/blob/master/Week%201/Homeworks/Lesson%203/Task2.java)
 
 Loops | [Task 22](https://github.com/DaniAngelov/Java_Programming/blob/master/Week%201/Homeworks/Lesson%203/Lesson%203%20Homework%20-%20Loops.pdf)| - |[Solution](https://github.com/DaniAngelov/Java_Programming/blob/master/Week%201/Homeworks/Lesson%203/Task22.java)
