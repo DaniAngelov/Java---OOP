@@ -7,10 +7,7 @@ import java.util.Scanner;
 public class Task1 
 {
 	
-	static boolean check(int num)
-	{
-		return num % 50 == 0;
-	}
+
 	
 	public static void main(String[] args)
 	{
