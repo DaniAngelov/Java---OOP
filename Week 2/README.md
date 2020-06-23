@@ -1,0 +1,50 @@
+##  Week 1 
+
+### Arrays
+
+Category| Challenge| Points   | Solution
+-------- | -------- | -------- | -------- 
+Arrays - Simple Tasks | [Task 1](https://github.com/DaniAngelov/Java_Programming/blob/master/Week%202/Simple%20Array%20Tasks/Arrays%20-Simple%20Array%20Tasks.pdf)| -|
+[Solution](https://github.com/DaniAngelov/Java_Programming/blob/master/Week%202/Simple%20Array%20Tasks/Task1.java)
+Arrays - Simple Tasks | [Task 2](https://github.com/DaniAngelov/Java_Programming/blob/master/Week%202/Simple%20Array%20Tasks/Arrays%20-Simple%20Array%20Tasks.pdf)| -|
+[Solution](https://github.com/DaniAngelov/Java_Programming/blob/master/Week%202/Simple%20Array%20Tasks/Task2.java)
+Arrays - Simple Tasks | [Task 3](https://github.com/DaniAngelov/Java_Programming/blob/master/Week%202/Simple%20Array%20Tasks/Arrays%20-Simple%20Array%20Tasks.pdf)| -|
+[Solution](https://github.com/DaniAngelov/Java_Programming/blob/master/Week%202/Simple%20Array%20Tasks/Task3.java)
+Arrays - Simple Tasks | [Task 4](https://github.com/DaniAngelov/Java_Programming/blob/master/Week%202/Simple%20Array%20Tasks/Arrays%20-Simple%20Array%20Tasks.pdf)| -|
+[Solution](https://github.com/DaniAngelov/Java_Programming/blob/master/Week%202/Simple%20Array%20Tasks/Task4.java)
+Arrays - Homework | [Task 1](https://github.com/DaniAngelov/Java_Programming/blob/master/Week%202/Homework/Lesson%20Homework%20-%20Arrays.pdf)| -|
+[Solution](https://github.com/DaniAngelov/Java_Programming/blob/master/Week%202/Homework/Task1.java)
+Arrays - Homework | [Task 2](https://github.com/DaniAngelov/Java_Programming/blob/master/Week%202/Homework/Lesson%20Homework%20-%20Arrays.pdf)| -|
+[Solution](https://github.com/DaniAngelov/Java_Programming/blob/master/Week%202/Homework/Task2.java)
+Arrays - Homework | [Task 3](https://github.com/DaniAngelov/Java_Programming/blob/master/Week%202/Homework/Lesson%20Homework%20-%20Arrays.pdf)| -|
+[Solution](https://github.com/DaniAngelov/Java_Programming/blob/master/Week%202/Homework/Task3.java)
+Arrays - Homework | [Task 4](https://github.com/DaniAngelov/Java_Programming/blob/master/Week%202/Homework/Lesson%20Homework%20-%20Arrays.pdf)| -|
+[Solution](https://github.com/DaniAngelov/Java_Programming/blob/master/Week%202/Homework/Task4.java)
+Arrays - Homework | [Task 5](https://github.com/DaniAngelov/Java_Programming/blob/master/Week%202/Homework/Lesson%20Homework%20-%20Arrays.pdf)| -|
+[Solution](https://github.com/DaniAngelov/Java_Programming/blob/master/Week%202/Homework/Task5.java)
+Arrays - Homework | [Task 6](https://github.com/DaniAngelov/Java_Programming/blob/master/Week%202/Homework/Lesson%20Homework%20-%20Arrays.pdf)| -|
+[Solution](https://github.com/DaniAngelov/Java_Programming/blob/master/Week%202/Homework/Task6.java)
+Arrays - Homework | [Task 7](https://github.com/DaniAngelov/Java_Programming/blob/master/Week%202/Homework/Lesson%20Homework%20-%20Arrays.pdf)| -|
+[Solution](https://github.com/DaniAngelov/Java_Programming/blob/master/Week%202/Homework/Task7.java)
+Arrays - Homework | [Task 8](https://github.com/DaniAngelov/Java_Programming/blob/master/Week%202/Homework/Lesson%20Homework%20-%20Arrays.pdf)| -|
+[Solution](https://github.com/DaniAngelov/Java_Programming/blob/master/Week%202/Homework/Task8.java)
+Arrays - Homework | [Task 9](https://github.com/DaniAngelov/Java_Programming/blob/master/Week%202/Homework/Lesson%20Homework%20-%20Arrays.pdf)| -|
+[Solution](https://github.com/DaniAngelov/Java_Programming/blob/master/Week%202/Homework/Task9.java)
+Arrays - Homework | [Task 10](https://github.com/DaniAngelov/Java_Programming/blob/master/Week%202/Homework/Lesson%20Homework%20-%20Arrays.pdf)| -|
+[Solution](https://github.com/DaniAngelov/Java_Programming/blob/master/Week%202/Homework/Task10.java)
+Arrays - Homework | [Task 11](https://github.com/DaniAngelov/Java_Programming/blob/master/Week%202/Homework/Lesson%20Homework%20-%20Arrays.pdf)| -|
+[Solution](https://github.com/DaniAngelov/Java_Programming/blob/master/Week%202/Homework/Task11.java)
+Arrays - Homework | [Task 12](https://github.com/DaniAngelov/Java_Programming/blob/master/Week%202/Homework/Lesson%20Homework%20-%20Arrays.pdf)| -|
+[Solution](https://github.com/DaniAngelov/Java_Programming/blob/master/Week%202/Homework/Task12.java)
+Arrays - Homework | [Task 13](https://github.com/DaniAngelov/Java_Programming/blob/master/Week%202/Homework/Lesson%20Homework%20-%20Arrays.pdf)| -|
+[Solution](https://github.com/DaniAngelov/Java_Programming/blob/master/Week%202/Homework/Task13.java)
+Arrays - Homework | [Task 14](https://github.com/DaniAngelov/Java_Programming/blob/master/Week%202/Homework/Lesson%20Homework%20-%20Arrays.pdf)| -|
+[Solution](https://github.com/DaniAngelov/Java_Programming/blob/master/Week%202/Homework/Task14.java)
+Arrays - Homework | [Task 15](https://github.com/DaniAngelov/Java_Programming/blob/master/Week%202/Homework/Lesson%20Homework%20-%20Arrays.pdf)| -|
+[Solution](https://github.com/DaniAngelov/Java_Programming/blob/master/Week%202/Homework/Task15.java)
+Arrays - Homework | [Task 16](https://github.com/DaniAngelov/Java_Programming/blob/master/Week%202/Homework/Lesson%20Homework%20-%20Arrays.pdf)| -|
+[Solution](https://github.com/DaniAngelov/Java_Programming/blob/master/Week%202/Homework/Task16.java)
+Arrays - Homework | [Task 17](https://github.com/DaniAngelov/Java_Programming/blob/master/Week%202/Homework/Lesson%20Homework%20-%20Arrays.pdf)| -|
+[Solution](https://github.com/DaniAngelov/Java_Programming/blob/master/Week%202/Homework/Task17.java)
+Arrays - Homework | [Task 18](https://github.com/DaniAngelov/Java_Programming/blob/master/Week%202/Homework/Lesson%20Homework%20-%20Arrays.pdf)| -|
+[Solution](https://github.com/DaniAngelov/Java_Programming/blob/master/Week%202/Homework/Task18.java)
