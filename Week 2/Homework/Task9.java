@@ -3,8 +3,6 @@
 
 import java.util.Scanner;
 
-import com.sun.org.apache.bcel.internal.generic.SWAP;
-
 public class Task1 
 {
 	
@@ -22,12 +20,12 @@ public class Task1
 		}
 		
 		int temp = 0;
-		int temp2 = 0 ;
+		
 		for(int i = 0;i < length;i++)
 		{
 			
 			temp = arr[i];
-			//temp2 = arr[length - i];
+		
 			arr[i] = arr[length - i - 1];
 			arr[length - i - 1] = temp;
 			
