@@ -22,3 +22,5 @@ Arrays Tasks | [Task 7](https://github.com/DaniAngelov/Java_Programming/blob/mas
 Arrays Tasks | [Task 8](https://github.com/DaniAngelov/Java_Programming/blob/master/Week%203/Lesson7/ArraysTasks.pdf)| - |[Solution](https://github.com/DaniAngelov/Java_Programming/blob/master/Week%203/Lesson7/Task8.java)
 Arrays Tasks | [Task 9](https://github.com/DaniAngelov/Java_Programming/blob/master/Week%203/Lesson7/ArraysTasks.pdf)| - |[Solution](https://github.com/DaniAngelov/Java_Programming/blob/master/Week%203/Lesson7/Task9.java)
 Arrays Tasks | [Task 10](https://github.com/DaniAngelov/Java_Programming/blob/master/Week%203/Lesson7/ArraysTasks.pdf)| - |[Solution](https://github.com/DaniAngelov/Java_Programming/blob/master/Week%203/Lesson7/Task10.java)
+Strings and Functions | [Task 1](https://github.com/DaniAngelov/Java_Programming/blob/master/Week%203/Lesson%208/Lesson%208%20Homework%20-%20Strings%2C%20Functions.pdf)| - |[Solution](https://github.com/DaniAngelov/Java_Programming/blob/master/Week%203/Lesson%208/Task1.java)
+
