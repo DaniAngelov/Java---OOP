@@ -27,10 +27,6 @@ public class Task5 {
             else if(i == pos + 1)
                 continue;
 
-
-
-
-
         }
     }
 
