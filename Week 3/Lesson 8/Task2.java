@@ -10,7 +10,7 @@ public class Task2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String sent = sc.nextLine();
-        //String sent2 = sc.nextWord();
+      
 
         String[] words = sent.split(" ");
         for(int i = 0;i < 2;i++)
@@ -31,11 +31,11 @@ public class Task2 {
                    System.out.print(words[i + 1].length() + " " + firstFive + words[i + 1].substring(5));
                }
 
-                //System.out.println("Words: " + words[i + 1]);
+                /
                 break;
             }
         }
-        //System.out.println(sent);
+       
 
 
     }
