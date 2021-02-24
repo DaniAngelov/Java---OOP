@@ -23,7 +23,7 @@ public abstract class Card {
         double discount = this.purchaseValue * (this.initialDiscountRate / 100);
         double total = this.purchaseValue - discount;
         System.out.println("================= Client =================");
-        System.out.printf("Discount: $%.2f \n",this.purchaseValue);
+        System.out.printf("Purchase Value: $%.2f \n",this.purchaseValue);
         System.out.println("Discount rate: " + this.initialDiscountRate +"%");
         System.out.printf("Discount: $%.2f \n",discount);
         System.out.printf("Total: $%.2f \n",total);
